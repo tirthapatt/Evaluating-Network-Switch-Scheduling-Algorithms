@@ -9,6 +9,7 @@ You will need Python 3 installed, along with the `matplotlib` library for data v
 The project is completely modular. To run all simulations and generate the comparison graphs, 
 Create the following six empty Python files inside this folder and copy the codes:
 
+
 trace.py
 
 fifo.py
